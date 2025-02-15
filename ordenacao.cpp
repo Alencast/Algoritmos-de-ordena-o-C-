@@ -16,6 +16,20 @@ bool ordenado(int a[], unsigned int t)
 /* TODO: Implementar função */
 void selecao(int a[], unsigned int t)
 {
+    int min, aux;
+    for(i = 0; i < (tam-1); i++){
+        min = i;
+        for(int j = (i+1); j < tam; j++){
+            if(num[j] < num[min]){
+                min = j;
+            }
+        }
+        if(num[i] != num[min]){
+            aux = num[i];
+            num[i] = num[min];
+            num[min] = aux;
+        }
+    }
 }
 
 /* TODO: Implementar função */
