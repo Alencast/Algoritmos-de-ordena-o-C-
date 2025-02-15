@@ -3,7 +3,7 @@
 /* TODO: Implementar função */
 bool ordenado(int a[], unsigned int t)
 {
-    for (int i = 0; i < t - 1; i++)
+    for (unsigned int i = 0; i < t - 1; i++) 
     {
         if (a[i] > a[i + 1])
         {
@@ -16,10 +16,10 @@ bool ordenado(int a[], unsigned int t)
 /* TODO: Implementar função */
 void selecao(int num[], unsigned int tam)
 {
-    int min, aux;
-    for(int i = 0; i < (tam-1); i++){
+    unsigned int min, aux; 
+    for(unsigned int i = 0; i < (tam-1); i++){ 
         min = i;
-        for(int j = (i+1); j < tam; j++){
+        for(unsigned int j = (i+1); j < tam; j++){ 
             if(num[j] < num[min]){
                 min = j;
             }
@@ -50,42 +50,38 @@ void insercao(int a[], unsigned int t)
 }
 
 /* TODO: Implementar função */
-void merge(int a[], int i1, int j1, int i2, int j2){
-    int* temp = new int[j2 - i1 + 1]; 
-    int i = i1, j = i2, k = 0;
-
-
-    while (i <= j1 && j <= j2) {
-        if (a[i] < a[j]) {
+void merge(int a[], unsigned int t, int primeiro, int ultimo){
+    int meio;
+    if(primeiro < ultimo){
+    meio = (primeiro + ultimo) / 2;
+    merge(a,t, primeiro, meio);
+    merge(a, t, meio+1 , ultimo);
+    int meioUpper = meio+1;
+    int* temp = new int[((meio - primeiro) + (ultimo - meioUpper) + 2)];
+    int i, j, k;
+    i = primeiro;
+    j = meioUpper;
+    k = 0;
+    while (i <= meio && j <= ultimo) {
+        if (a[i] < a[j])
             temp[k++] = a[i++];
-        } else {
+        else
             temp[k++] = a[j++];
         }
-    }
-
-    while (i <= j1) {
+    while (i <= meio)
         temp[k++] = a[i++];
-    }
-
-  
-    while (j <= j2) {
+    while (j <= ultimo)
         temp[k++] = a[j++];
-    }
-
-  
-    for (i = i1, k = 0; i <= j2; i++, k++) {
-        a[i] = temp[k];
-    }
-
+    for (i = primeiro, j = 0;i <= ultimo;i++, j++)
+        a[i] = temp[j];
     delete[] temp;
+    }
+} 
+
+void merge_sort(int a[], unsigned int t){
+    int primeiro = 0;
+    int ultimo = t-1;
+    if(!ordenado(a,t)){
+        merge(a, t, primeiro, ultimo);
+    }
 }
-
-void merge_sort(int a[], int primeiro, int ultimo){
-    if (primeiro < ultimo) {
-        int meio = (primeiro + ultimo) / 2;
-        merge_sort(a, primeiro, meio);
-        merge_sort(a, meio + 1, ultimo);
-        merge(a, primeiro, meio, meio + 1, ultimo);     }
-}
-
-
