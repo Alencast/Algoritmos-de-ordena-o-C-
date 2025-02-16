@@ -2,7 +2,7 @@
 
 📌 ## Introdução
 
-Este projeto tem como objetivo a implementação e análise de desempenho de três algoritmos clássicos de ordenação: Selection Sort, Insertion Sort e Merge Sort. Além disso, foi desenvolvida uma função de verificação para confirmar se um array está em ordem não decrescente.
+Este projeto tem como objetivo a implementação e análise de desempenho de três algoritmos clássicos de ordenação: **Selection Sort**, **Insertion Sort** e **Merge Sort**. Além disso, foi desenvolvida uma função de verificação para confirmar se um array está em ordem não decrescente.
 
 📂 ## Estrutura do Projeto
 
@@ -63,29 +63,3 @@ A análise confirmou que **Merge Sort** é a melhor escolha para grandes conjunt
 
 ```bash
 g++ -Wall -o teste_ordenacao teste_ordenacao.cpp ordenacao.cpp
-
-```bash
-Para executar
-  ./teste_ordenacao
-
-```bash
-Para o manual do programa
-  ./teste_ordenacao -h
-
-```bash
-Para executar o teste no arquivo 'e1.txt' e gerar a saída no arquivo 's1.txt'.
-  ./teste_ordenacao < e1.txt > s1.txt
-
-OBS: O padrão é ordenação por seleção.
-
-```bash
-Para definir ordenação por inserção do arquivo 'e1.txt' e gerar o arquivo 's1.txt'.
-  ./teste_ordenacao -i < e1.txt > s1.txt
-
-```bash
-Para definir ordenação por seleção do arquivo 'e1.txt' e gerar o arquivo 's1.txt'.
-  ./teste_ordenacao -s < e1.txt > s1.txt
-
-```bash
-Para definir ordenação por merge-sort do arquivo 'e1.txt' e gerar o arquivo 's1.txt'.
-  ./teste_ordenacao -m < e1.txt > s1.txt
