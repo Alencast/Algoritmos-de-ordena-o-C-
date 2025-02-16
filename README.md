@@ -12,7 +12,6 @@ O projeto é composto pelos seguintes arquivos:
 
 - **📄 ordenacao.cpp** - Contém as implementações dos algoritmos de ordenação.
 - **📁 testes/** - Pasta contendo arquivos de testes com diferentes quantidades de elementos, incluindo gráficos e tabelas.
-- **📁gráficos de teste/** - Pasta contendo os gráficos dos testes realizados com cada algoritmo.
 - **📄 README.md** - Este documento.
 
 ---
@@ -55,7 +54,7 @@ O algoritmo Merge Sort é o algoritmo de ordenação mais eficiente dos três, q
 
 Os testes foram executados em conjuntos de dados de tamanhos variando de **10⁴ a 10⁵ elementos**. Os tempos de execução foram registrados e comparados em gráficos.
 
-###Tabela - CASO01
+### Tabela - CASO01
 
 | Entradas | Merge-sort | Inserção  | Seleção   |
 |----------|------------|-----------|-----------|
@@ -72,7 +71,7 @@ Os testes foram executados em conjuntos de dados de tamanhos variando de **10⁴
 
 ---
 
-###Tabela - CASO02
+### Tabela - CASO02
 
 | Entradas | Merge-sort | Inserção  | Seleção   |
 |----------|------------|-----------|-----------|
@@ -89,7 +88,7 @@ Os testes foram executados em conjuntos de dados de tamanhos variando de **10⁴
 
 ---
 
-###Tabela - CASO03
+### Tabela - CASO03
 
 | Entradas | Merge-sort | Inserção  | Seleção   |
 |----------|------------|-----------|-----------|
@@ -106,7 +105,7 @@ Os testes foram executados em conjuntos de dados de tamanhos variando de **10⁴
 
 ---
 
-###Tabela - CASO04
+### Tabela - CASO04
 
 | Entradas | Merge-sort | Inserção | Seleção   |
 |----------|------------|----------|-----------|
@@ -121,7 +120,7 @@ Os testes foram executados em conjuntos de dados de tamanhos variando de **10⁴
 | 90000    | 45778      | 151210   | 25914339  |
 | 100000   | 61081      | 199609   | 66596755  |
 
-###Tabela - CASO05
+### Tabela - CASO05
 
 | Entradas | Merge-sort | Inserção  | Seleção   |
 |----------|------------|-----------|-----------|
@@ -137,6 +136,7 @@ Os testes foram executados em conjuntos de dados de tamanhos variando de **10⁴
 | 100000   | 42011      | 23533213  | 23975841  |
 
 ---
+![Gráfico caso01](caminho/para/imagem.png)
 
 
 ## Resultados 📈
@@ -170,3 +170,27 @@ A análise confirmou que:
 
 ```bash
 g++ -Wall -o teste_ordenacao teste_ordenacao.cpp ordenacao.cpp
+
+Para executar
+  ./teste_ordenacao
+
+Para o manual do programa
+  ./teste_ordenacao -h
+
+Para executar o teste no arquivo 'e1.txt' e gerar a saída no arquivo 's1.txt'.
+
+  ./teste_ordenacao < e1.txt > s1.txt
+
+OBS: O padrão é ordenação por seleção.
+
+Para definir ordenação por inserção do arquivo 'e1.txt' e gerar o arquivo 's1.txt'.
+
+  ./teste_ordenacao -i < e1.txt > s1.txt
+  ./teste_ordenacao -m < testes/caso01/exemplo-1000-1.txt >> s1.txt 2>&1
+
+
+Para definir ordenação por seleção do arquivo 'e1.txt' e gerar o arquivo 's1.txt'.
+  ./teste_ordenacao -s < e1.txt > s1.txt
+
+Para definir ordenação por merge-sort do arquivo 'e1.txt' e gerar o arquivo 's1.txt'.
+  ./teste_ordenacao -m < e1.txt > s1.txt
