@@ -1,1 +1,378 @@
+caso02
 
+Merge-sort:
+
+
+=== Processando testes/caso02/exemplo-100000-1.txt ===
+Método merge-sort usado para ordenação.
+100000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-100000-2.txt ===
+Método merge-sort usado para ordenação.
+100000 Tempo de ordenação: 1001 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-100000-3.txt ===
+Método merge-sort usado para ordenação.
+100000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-10000-1.txt ===
+Método merge-sort usado para ordenação.
+10000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-10000-2.txt ===
+Método merge-sort usado para ordenação.
+10000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-10000-3.txt ===
+Método merge-sort usado para ordenação.
+10000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-20000-1.txt ===
+Método merge-sort usado para ordenação.
+20000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-20000-2.txt ===
+Método merge-sort usado para ordenação.
+20000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-20000-3.txt ===
+Método merge-sort usado para ordenação.
+20000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-30000-1.txt ===
+Método merge-sort usado para ordenação.
+30000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-30000-2.txt ===
+Método merge-sort usado para ordenação.
+30000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-30000-3.txt ===
+Método merge-sort usado para ordenação.
+30000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-40000-1.txt ===
+Método merge-sort usado para ordenação.
+40000 Tempo de ordenação: 995 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-40000-2.txt ===
+Método merge-sort usado para ordenação.
+40000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-40000-3.txt ===
+Método merge-sort usado para ordenação.
+40000 Tempo de ordenação: 990 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-50000-1.txt ===
+Método merge-sort usado para ordenação.
+50000 Tempo de ordenação: 1000 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-50000-2.txt ===
+Método merge-sort usado para ordenação.
+50000 Tempo de ordenação: 1000 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-50000-3.txt ===
+Método merge-sort usado para ordenação.
+50000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-60000-1.txt ===
+Método merge-sort usado para ordenação.
+60000 Tempo de ordenação: 996 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-60000-2.txt ===
+Método merge-sort usado para ordenação.
+60000 Tempo de ordenação: 79713 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-60000-3.txt ===
+Método merge-sort usado para ordenação.
+60000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-70000-1.txt ===
+Método merge-sort usado para ordenação.
+70000 Tempo de ordenação: 999 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-70000-2.txt ===
+Método merge-sort usado para ordenação.
+70000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-70000-3.txt ===
+Método merge-sort usado para ordenação.
+70000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-80000-1.txt ===
+Método merge-sort usado para ordenação.
+80000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-80000-2.txt ===
+Método merge-sort usado para ordenação.
+80000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-80000-3.txt ===
+Método merge-sort usado para ordenação.
+80000 Tempo de ordenação: 1014 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-90000-1.txt ===
+Método merge-sort usado para ordenação.
+90000 Tempo de ordenação: 999 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-90000-2.txt ===
+Método merge-sort usado para ordenação.
+90000 Tempo de ordenação: 1003 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-90000-3.txt ===
+Método merge-sort usado para ordenação.
+90000 Tempo de ordenação: 994 microsegundo(s)
+=========================
+
+
+Inserção:
+
+=== Processando testes/caso02/exemplo-100000-1.txt ===
+Método inserção usado para ordenação.
+100000 Tempo de ordenação: 998 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-100000-2.txt ===
+Método inserção usado para ordenação.
+100000 Tempo de ordenação: 1000 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-100000-3.txt ===
+Método inserção usado para ordenação.
+100000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-10000-1.txt ===
+Método inserção usado para ordenação.
+10000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-10000-2.txt ===
+Método inserção usado para ordenação.
+10000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-10000-3.txt ===
+Método inserção usado para ordenação.
+10000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-20000-1.txt ===
+Método inserção usado para ordenação.
+20000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-20000-2.txt ===
+Método inserção usado para ordenação.
+20000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-20000-3.txt ===
+Método inserção usado para ordenação.
+20000 Tempo de ordenação: 1000 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-30000-1.txt ===
+Método inserção usado para ordenação.
+30000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-30000-2.txt ===
+Método inserção usado para ordenação.
+30000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-30000-3.txt ===
+Método inserção usado para ordenação.
+30000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-40000-1.txt ===
+Método inserção usado para ordenação.
+40000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-40000-2.txt ===
+Método inserção usado para ordenação.
+40000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-40000-3.txt ===
+Método inserção usado para ordenação.
+40000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-50000-1.txt ===
+Método inserção usado para ordenação.
+50000 Tempo de ordenação: 998 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-50000-2.txt ===
+Método inserção usado para ordenação.
+50000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-50000-3.txt ===
+Método inserção usado para ordenação.
+50000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-60000-1.txt ===
+Método inserção usado para ordenação.
+60000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-60000-2.txt ===
+Método inserção usado para ordenação.
+60000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-60000-3.txt ===
+Método inserção usado para ordenação.
+60000 Tempo de ordenação: 1009 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-70000-1.txt ===
+Método inserção usado para ordenação.
+70000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-70000-2.txt ===
+Método inserção usado para ordenação.
+70000 Tempo de ordenação: 1000 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-70000-3.txt ===
+Método inserção usado para ordenação.
+70000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-80000-1.txt ===
+Método inserção usado para ordenação.
+80000 Tempo de ordenação: 1000 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-80000-2.txt ===
+Método inserção usado para ordenação.
+80000 Tempo de ordenação: 1000 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-80000-3.txt ===
+Método inserção usado para ordenação.
+80000 Tempo de ordenação: 1991 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-90000-1.txt ===
+Método inserção usado para ordenação.
+90000 Tempo de ordenação: 0 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-90000-2.txt ===
+Método inserção usado para ordenação.
+90000 Tempo de ordenação: 997 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-90000-3.txt ===
+Método inserção usado para ordenação.
+90000 Tempo de ordenação: 987 microsegundo(s)
+=========================
+=== Processando testes/caso02/t.txt ===
+Método inserção usado para ordenação.
+=========================
+
+Seleção:
+
+=== Processando testes/caso02/exemplo-100000-1.txt ===
+Método seleção usado para ordenação.
+100000 Tempo de ordenação: 33573337 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-100000-2.txt ===
+Método seleção usado para ordenação.
+100000 Tempo de ordenação: 30802430 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-100000-3.txt ===
+Método seleção usado para ordenação.
+100000 Tempo de ordenação: 28407007 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-10000-1.txt ===
+Método seleção usado para ordenação.
+10000 Tempo de ordenação: 262994 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-10000-2.txt ===
+Método seleção usado para ordenação.
+10000 Tempo de ordenação: 311744 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-10000-3.txt ===
+Método seleção usado para ordenação.
+10000 Tempo de ordenação: 336208 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-20000-1.txt ===
+Método seleção usado para ordenação.
+20000 Tempo de ordenação: 1331452 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-20000-2.txt ===
+Método seleção usado para ordenação.
+20000 Tempo de ordenação: 3193880 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-20000-3.txt ===
+Método seleção usado para ordenação.
+20000 Tempo de ordenação: 1201373 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-30000-1.txt ===
+Método seleção usado para ordenação.
+30000 Tempo de ordenação: 2779200 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-30000-2.txt ===
+Método seleção usado para ordenação.
+30000 Tempo de ordenação: 2573403 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-30000-3.txt ===
+Método seleção usado para ordenação.
+30000 Tempo de ordenação: 3346433 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-40000-1.txt ===
+Método seleção usado para ordenação.
+40000 Tempo de ordenação: 4371695 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-40000-2.txt ===
+Método seleção usado para ordenação.
+40000 Tempo de ordenação: 4872559 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-40000-3.txt ===
+Método seleção usado para ordenação.
+40000 Tempo de ordenação: 5920844 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-50000-1.txt ===
+Método seleção usado para ordenação.
+50000 Tempo de ordenação: 8384661 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-50000-2.txt ===
+Método seleção usado para ordenação.
+50000 Tempo de ordenação: 6918181 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-50000-3.txt ===
+Método seleção usado para ordenação.
+50000 Tempo de ordenação: 9725616 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-60000-1.txt ===
+Método seleção usado para ordenação.
+60000 Tempo de ordenação: 8621374 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-60000-2.txt ===
+Método seleção usado para ordenação.
+60000 Tempo de ordenação: 8597328 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-60000-3.txt ===
+Método seleção usado para ordenação.
+60000 Tempo de ordenação: 8584733 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-70000-1.txt ===
+Método seleção usado para ordenação.
+70000 Tempo de ordenação: 12055859 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-70000-2.txt ===
+Método seleção usado para ordenação.
+70000 Tempo de ordenação: 11746364 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-70000-3.txt ===
+Método seleção usado para ordenação.
+70000 Tempo de ordenação: 12716105 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-80000-1.txt ===
+Método seleção usado para ordenação.
+80000 Tempo de ordenação: 15109204 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-80000-2.txt ===
+Método seleção usado para ordenação.
+80000 Tempo de ordenação: 15143649 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-80000-3.txt ===
+Método seleção usado para ordenação.
+80000 Tempo de ordenação: 15355133 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-90000-1.txt ===
+Método seleção usado para ordenação.
+90000 Tempo de ordenação: 19020893 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-90000-2.txt ===
+Método seleção usado para ordenação.
+90000 Tempo de ordenação: 19105360 microsegundo(s)
+=========================
+=== Processando testes/caso02/exemplo-90000-3.txt ===
+Método seleção usado para ordenação.
+90000 Tempo de ordenação: 44341113 microsegundo(s)
+=========================
+=== Processando testes/caso02/t.txt ===
+Método seleção usado para ordenação.
+=========================

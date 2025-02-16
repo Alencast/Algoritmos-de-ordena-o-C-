@@ -372,3 +372,7 @@ Método seleção usado para ordenação.
 Método seleção usado para ordenação.
 90000 Tempo de ordenação: 19709374 microsegundo(s)
 =========================
+
+
+
+
