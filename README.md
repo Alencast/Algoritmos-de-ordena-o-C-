@@ -12,6 +12,7 @@ O projeto é composto pelos seguintes arquivos:
 
 - **📄 ordenacao.cpp** - Contém as implementações dos algoritmos de ordenação.
 - **📁 testes/** - Pasta contendo arquivos de testes com diferentes quantidades de elementos, incluindo gráficos e tabelas.
+- ***📁 gráficos de teste/**  - pasta contendo os gráficos dos testes dos algoritmos.
 - **📄 README.md** - Este documento.
 
 ---
